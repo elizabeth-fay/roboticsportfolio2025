@@ -5,6 +5,9 @@ Student at Skyline High School. Projected graduation date in 2026. IB diploma ca
 
 ## Projects for Term 1
 
-## Projects for Term 2
-
 ![title](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
+## Elizabeth | Engineer | CAD Designer
+* Designs and builds the robot's physical structure
+* Works on drivetrain, chassis, and mechanical systems
+* Creates detailed computer-aided design (CAD) models of the robot
